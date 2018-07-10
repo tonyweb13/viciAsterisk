@@ -1,0 +1,56 @@
+vendor/
+node_modules/
+npm-debug.log
+
+# Laravel 4 specific
+bootstrap/compiled.php
+app/storage/
+
+# Laravel 5 & Lumen specific
+public/storage
+public/hot
+storage/*.key
+.env.*.php
+.env.php
+.env
+Homestead.yaml
+Homestead.json
+
+# Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
+.rocketeer/
+
+#not included in initial commit
+public/
+laradock/
+default index/
+bin/
+LANG_www/
+docs/
+libs/
+www/
+
+_ide_helper.php
+composer.lock
+yarn.lock
+.env.example
+.editorconfig
+.gitattributes
+composer.lock
+yarn.lock
+package-lock.json
+npm-debug.log
+yarn-error.log
+*.sql
+*.xlsx
+package.json.sample
+grunt-config.json.sample
+nginx.conf.sample
+php.ini.sample
+.htaccess.sample
+.htaccess
+.idea/
+mysql-5.0.96/
+error encounter installing asterisk vicidial.txt
+*.tar
+INSTALL
+install.pl
